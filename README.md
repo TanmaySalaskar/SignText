@@ -8,4 +8,5 @@ STEPS TO RUN THIS APPLICATION:
 4. The data is collected in the new csv file.
 5. Run the "train_model.py" file to train our model.
 6. After the model is trained you can simply run the "app.py" file to start our application.
-7. 
+7. Refer to the SS(screenshots) folder for the walkthrough of the app
+8. You convert this python kivy app into APK.  
