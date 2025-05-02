@@ -5,5 +5,7 @@ STEPS TO RUN THIS APPLICATION:
 1. Run the collect_data.py file.
 2. Show the american sing language hand sign and press the respective key from the keyboard to assign the alphabet or words.
 3. After assiging press "esc" to exit.
-4. The data is collected in the new csv file
-5. 
+4. The data is collected in the new csv file.
+5. Run the "train_model.py" file to train our model.
+6. After the model is trained you can simply run the "app.py" file to start our application.
+7. 
