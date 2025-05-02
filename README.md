@@ -9,4 +9,7 @@ STEPS TO RUN THIS APPLICATION:
 5. Run the "train_model.py" file to train our model.
 6. After the model is trained you can simply run the "app.py" file to start our application.
 7. Refer to the SS(screenshots) folder for the walkthrough of the app
-8. You convert this python kivy app into APK.  
+8. You convert this python kivy app into APK.
+
+![12](https://github.com/user-attachments/assets/77080853-1f04-45b1-a676-73bfbec23f26)
+
